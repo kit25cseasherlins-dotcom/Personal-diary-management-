@@ -152,6 +152,6 @@ Login Successful!
 
 ---
 
-## ⭐ Acknowledgment
+##  Acknowledgment
 
 This project is developed as part of academic learning to demonstrate file handling, data structures, and secure input handling in C.
